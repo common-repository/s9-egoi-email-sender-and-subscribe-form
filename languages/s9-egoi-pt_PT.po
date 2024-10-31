@@ -1,0 +1,685 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: S9-egoi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-19 16:18-0000\n"
+"PO-Revision-Date: 2011-05-02 12:02-0000\n"
+"Last-Translator: \n"
+"Language-Team: Sector 9 <info@sector9.pt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../s9-egoi.messages.php:5
+msgid "INVALID"
+msgstr "Erro: Info inválida"
+
+#: ../s9-egoi.messages.php:6
+msgid "SUCCESS"
+msgstr "Operação bem sucedida"
+
+#: ../s9-egoi.messages.php:7
+msgid "INTERNAL_ERROR"
+msgstr "Ocorreu um erro interno"
+
+#: ../s9-egoi.messages.php:8
+msgid "NOTHING_TO_DO"
+msgstr "Nenhuma operação foi efectuada"
+
+#: ../s9-egoi.messages.php:9
+msgid "LIST_MISSING"
+msgstr "Falta o ID da Lista"
+
+#: ../s9-egoi.messages.php:10
+msgid "LIST_NOT_FOUND"
+msgstr "O ID da lista não foi encontrado"
+
+#: ../s9-egoi.messages.php:13
+msgid "CANNOT_ADD_MORE_SUBSCRIBERS"
+msgstr "Não pode adicionar mais subscritores"
+
+#: ../s9-egoi.messages.php:14
+msgid "NO_DATA_TO_INSERT"
+msgstr "Sem informação para inserir"
+
+#: ../s9-egoi.messages.php:15
+msgid "EMAIL_ALREADY_EXISTS"
+msgstr "O endereço de email já existe"
+
+#: ../s9-egoi.messages.php:16
+msgid "EMAIL_ADDRESS_INVALID"
+msgstr "O endereço de email não é válido"
+
+#: ../s9-egoi.messages.php:17
+msgid "EMAIL_ADDRESS_INVALID_MX_ERROR"
+msgstr "O endereço de email não é válido"
+
+#: ../s9-egoi.messages.php:18
+msgid "EMAIL_ADDRESS_INVALID_DOESNT_EXIST"
+msgstr "O endereço de email não é válido"
+
+#: ../s9-egoi.messages.php:19
+msgid "CELLPHONE_ALREADY_EXISTS"
+msgstr "O Telemóvel já existe"
+
+#: ../s9-egoi.messages.php:20
+msgid "FAX_ALREADY_EXISTS"
+msgstr "O Fax já existe"
+
+#: ../s9-egoi.messages.php:21
+msgid "TELEPHONE_ALREADY_EXISTS"
+msgstr "O Telefone já existe"
+
+#: ../s9-egoi.messages.php:22
+msgid "FIRST_NAME_ALREADY_EXISTS"
+msgstr "O Nome já existe"
+
+#: ../s9-egoi.messages.php:23
+msgid "LAST_NAME_ALREADY_EXISTS"
+msgstr "O Apelido já existe"
+
+#: ../s9-egoi.messages.php:24
+msgid "TAX_ID_NUMBER_ALREADY_EXISTS"
+msgstr "O Tax ID já existe"
+
+#: ../s9-egoi.messages.php:25
+msgid "ADDRESS_ALREADY_EXISTS"
+msgstr "A Morada já existe"
+
+#: ../s9-egoi.messages.php:26
+msgid "ZIP_CODE_ALREADY_EXISTS"
+msgstr "O Cod. Postal já existe"
+
+#: ../s9-egoi.messages.php:27
+msgid "CITY_ALREADY_EXISTS"
+msgstr "A Cidade já existe"
+
+#: ../s9-egoi.messages.php:28
+msgid "DISCRICT_ALREADY_EXISTS"
+msgstr "O Distrito já existe"
+
+#: ../s9-egoi.messages.php:29
+msgid "STATE_ALREADY_EXISTS"
+msgstr "O Estado já existe"
+
+#: ../s9-egoi.messages.php:30
+msgid "COUNTRY_ALREADY_EXISTS"
+msgstr "O País já existe"
+
+#: ../s9-egoi.messages.php:31
+msgid "AGE_ALREADY_EXISTS"
+msgstr "A Idade já existe"
+
+#: ../s9-egoi.messages.php:32
+msgid "GENDER_ALREADY_EXISTS"
+msgstr "O Género já existe"
+
+#: ../s9-egoi.messages.php:33
+msgid "ID_CARD_NUMBER_ALREADY_EXISTS"
+msgstr "O ID Card Já existe"
+
+#: ../s9-egoi.messages.php:34
+msgid "COMPANY_ALREADY_EXISTS"
+msgstr "A Empresa já existe"
+
+#: ../s9-egoi.messages.php:35
+msgid "BIRTH_DATE_ALREADY_EXISTS"
+msgstr "A Data de Nascimento já existe"
+
+#: ../s9-egoi.messages.php:38
+msgid "SUBSCRIBER_MISSING"
+msgstr "Falta o subscritor"
+
+#: ../s9-egoi.messages.php:39
+msgid "SUBSCRIBER_NOT_FOUND"
+msgstr "O subscritor não é válido"
+
+#: ../s9-egoi.messages.php:40
+msgid "CAMPAIGN_NOT_VALID"
+msgstr "A Campanha não é válida"
+
+#: ../s9-egoi.messages.php:43
+msgid "INVALID_FROM"
+msgstr "O Remetente não é válido"
+
+#: ../s9-egoi.messages.php:44
+msgid "NO_SUBJECT"
+msgstr "O Assunto não foi encontrado"
+
+#: ../s9-egoi.messages.php:45
+msgid "NO_MESSAGE"
+msgstr "A Mensagem não foi encontrada"
+
+#: ../s9-egoi.messages.php:46
+msgid "INVALID_FILE"
+msgstr "Ficheiro inválido"
+
+#: ../s9-egoi.messages.php:47
+msgid "NO_ZIP_FILE"
+msgstr "O Ficheiro Zip não foi encontrado"
+
+#: ../s9-egoi.messages.php:48
+msgid "FILE_TOO_LARGE"
+msgstr "O Ficheiro é muito grande"
+
+#: ../s9-egoi.messages.php:49
+msgid "INVALID_URL"
+msgstr "O URL é inválido"
+
+#: ../s9-egoi.php:90
+msgid "Email"
+msgstr "Email"
+
+#: ../s9-egoi.php:91
+msgid "First Name"
+msgstr "Nome"
+
+#: ../s9-egoi.php:92
+msgid "Last Name"
+msgstr "Apelido"
+
+#: ../s9-egoi.php:93
+msgid "Cellphone"
+msgstr "Telemóvel"
+
+#: ../s9-egoi.php:94
+msgid "Telephone"
+msgstr "Telefone"
+
+#: ../s9-egoi.php:95
+msgid "Fax"
+msgstr "Fax"
+
+#: ../s9-egoi.php:96
+msgid "Address"
+msgstr "Morada"
+
+#: ../s9-egoi.php:97
+msgid "Zip Code"
+msgstr "Cod. Postal"
+
+#: ../s9-egoi.php:98
+msgid "City"
+msgstr "Cidade"
+
+#: ../s9-egoi.php:99
+msgid "District"
+msgstr "Distrito"
+
+#: ../s9-egoi.php:100
+msgid "State"
+msgstr "Estado"
+
+#: ../s9-egoi.php:101
+msgid "Age"
+msgstr "Idade"
+
+#: ../s9-egoi.php:102
+msgid "Birth Date"
+msgstr "Data de Nascimento"
+
+#: ../s9-egoi.php:103
+msgid "Gender"
+msgstr "Género"
+
+#: ../s9-egoi.php:104
+msgid "Company"
+msgstr "Empresa"
+
+#: ../s9-egoi.php:157
+msgid "Create Email"
+msgstr "Criar Email"
+
+#: ../s9-egoi.php:158
+msgid "Edit Email"
+msgstr "Editar Email"
+
+#: ../s9-egoi.php:159
+msgid "New Email"
+msgstr "Novo Email"
+
+#: ../s9-egoi.php:160
+msgid "View Email"
+msgstr "Ver Email"
+
+#: ../s9-egoi.php:161
+msgid "Search Emails"
+msgstr "Pesquisar Emails"
+
+#: ../s9-egoi.php:162
+msgid "No Results"
+msgstr "Sem resultados"
+
+#: ../s9-egoi.php:163
+msgid "No Results found in Trash"
+msgstr "Sem resultados no Lixo"
+
+#: ../s9-egoi.php:189
+#: ../s9-egoi.php:228
+msgid "Egoi Info"
+msgstr "Info Egoi"
+
+#: ../s9-egoi.php:218
+msgid "Insert your Egoi Api Key to activate this plugin. If you don't have a Egoi Account"
+msgstr "Insira a sua Chave de API Egoi para activar o plugin. Se não tem uma conta Egoi"
+
+#: ../s9-egoi.php:218
+msgid "create one here"
+msgstr "crie uma aqui"
+
+#: ../s9-egoi.php:229
+msgid "Support"
+msgstr "Suporte"
+
+#: ../s9-egoi.php:231
+msgid "General"
+msgstr "Geral"
+
+#: ../s9-egoi.php:231
+msgid "Forms"
+msgstr "Formulários"
+
+#: ../s9-egoi.php:231
+msgid "Layout"
+msgstr "Apresentação"
+
+#: ../s9-egoi.php:231
+msgid "Advanced"
+msgstr "Avançado"
+
+#: ../s9-egoi.php:251
+msgid "Options updated."
+msgstr "Opções actualizadas."
+
+#: ../s9-egoi.php:258
+msgid "All options were erased."
+msgstr "Todas as opções foram apagadas."
+
+#: ../s9-egoi.php:264
+msgid "All saved campaigns were erased."
+msgstr "Todas as campanhas foram apagadas."
+
+#: ../s9-egoi.php:298
+msgid "Update Options &raquo;"
+msgstr "Actualizar Opções &raquo;"
+
+#: ../s9-egoi.php:328
+#: ../s9-egoi.php:424
+#: ../s9-egoi.php:530
+#: ../s9-egoi.php:545
+msgid "List ID"
+msgstr "ID da Lista"
+
+#: ../s9-egoi.php:332
+#: ../s9-egoi.php:425
+msgid "Segment"
+msgstr "Segmento"
+
+#: ../s9-egoi.php:336
+#: ../s9-egoi.php:426
+msgid "Send Date"
+msgstr "Data de Envio"
+
+#: ../s9-egoi.php:337
+#: ../s9-egoi.php:415
+msgid "Never"
+msgstr "Nunca"
+
+#: ../s9-egoi.php:342
+msgid "Save Campaign Draft"
+msgstr "Salvar Campanha como Rascunho"
+
+#: ../s9-egoi.php:343
+msgid "Send Campaign for Publishing"
+msgstr "Enviar Campanha para Publicação"
+
+#: ../s9-egoi.php:423
+msgid "Subject"
+msgstr "Assunto"
+
+#: ../s9-egoi.php:441
+msgid "Activate Plugin"
+msgstr "Activar Plugin"
+
+#: ../s9-egoi.php:453
+msgid "Account"
+msgstr "Conta"
+
+#: ../s9-egoi.php:457
+msgid "Created in"
+msgstr "Criado em"
+
+#: ../s9-egoi.php:461
+msgid "Credits"
+msgstr "Créditos"
+
+#: ../s9-egoi.php:470
+msgid "Reset Api Key"
+msgstr "Limpar Chave API"
+
+#: ../s9-egoi.php:483
+msgid "Email Options"
+msgstr "Opções de Email"
+
+#: ../s9-egoi.php:486
+msgid "Sender Email"
+msgstr "Email do Remetente"
+
+#: ../s9-egoi.php:488
+msgid "Sender Name"
+msgstr "Nome do Remetente"
+
+#: ../s9-egoi.php:492
+msgid "Sender Email Address. Needs to be certified in your Egoi Account."
+msgstr "Endereço de Email do remetente. Necessita de ser certificado na sua conta de Egoi."
+
+#: ../s9-egoi.php:493
+msgid "Sender Name. Needs to be certified in your Egoi Account."
+msgstr "Nome do remetente. Necessita de ser certificado na sua conta de Egoi."
+
+#: ../s9-egoi.php:496
+msgid "Reply Email"
+msgstr "Email para resposta"
+
+#: ../s9-egoi.php:498
+msgid "Reply Name"
+msgstr "Nome para resposta"
+
+#: ../s9-egoi.php:502
+msgid "If empty, sender email will be used. Needs to be certified in your Egoi Account."
+msgstr "Se vazio, será usado o email do remetente. Necessita de ser certificado na sua conta de Egoi."
+
+#: ../s9-egoi.php:503
+msgid "If empty, sender name will be used. Needs to be certified in your Egoi Account."
+msgstr "Se vazio, será usado o nome do remetente. Necessita de ser certificado na sua conta de Egoi."
+
+#: ../s9-egoi.php:506
+msgid "Automatic Campaigns"
+msgstr "Campanhas Automáticas"
+
+#: ../s9-egoi.php:509
+msgid "Create automatic newsletter"
+msgstr "Criar newsletter automática"
+
+#: ../s9-egoi.php:511
+msgid "Minimum posts"
+msgstr "Minimo de posts"
+
+#: ../s9-egoi.php:515
+msgid "Create email campaign with a list of X new posts, where X is the minimun posts you select."
+msgstr "Criar uma campanha de email com a lista dos X novos posts, onde X é o minimo de posts que escolher."
+
+#: ../s9-egoi.php:518
+msgid "Email Subject"
+msgstr "Assunto do Email"
+
+#: ../s9-egoi.php:522
+msgid "Email subject for automatic campaigns. You can use the following tags on the subject"
+msgstr "Assunto das campanhas automáticas. Pode usar as seguintes tags no assunto"
+
+#: ../s9-egoi.php:525
+msgid "Automatic Subscription"
+msgstr "Subscrição Automática"
+
+#: ../s9-egoi.php:528
+msgid "Subscribe registered users"
+msgstr "Subsrever utilizadores registados"
+
+#: ../s9-egoi.php:534
+msgid "Subscribe new wordpress registered users to the list you select."
+msgstr "Subscreve os utilizadores que se registarem no wordpress para a lista que escolher."
+
+#: ../s9-egoi.php:542
+msgid "Subscribe List"
+msgstr "Lista de subscrição"
+
+#: ../s9-egoi.php:549
+msgid "Subscribe users to the list you select."
+msgstr "Subscreve os utilizadores para a lista que escolher."
+
+#: ../s9-egoi.php:552
+msgid "Subscribe Fields"
+msgstr "Campos de Subscrição"
+
+#: ../s9-egoi.php:556
+msgid "Email Label"
+msgstr "Etiqueta para o Email"
+
+#: ../s9-egoi.php:558
+#: ../s9-egoi.php:569
+#: ../s9-egoi.php:580
+#: ../s9-egoi.php:591
+#: ../s9-egoi.php:602
+#: ../s9-egoi.php:613
+#: ../s9-egoi.php:624
+#: ../s9-egoi.php:635
+#: ../s9-egoi.php:646
+#: ../s9-egoi.php:657
+#: ../s9-egoi.php:668
+#: ../s9-egoi.php:679
+#: ../s9-egoi.php:690
+#: ../s9-egoi.php:701
+#: ../s9-egoi.php:712
+msgid "Required"
+msgstr "Obrigatório"
+
+#: ../s9-egoi.php:562
+#: ../s9-egoi.php:573
+#: ../s9-egoi.php:584
+#: ../s9-egoi.php:595
+#: ../s9-egoi.php:606
+#: ../s9-egoi.php:617
+#: ../s9-egoi.php:628
+#: ../s9-egoi.php:639
+#: ../s9-egoi.php:650
+#: ../s9-egoi.php:661
+#: ../s9-egoi.php:672
+#: ../s9-egoi.php:683
+#: ../s9-egoi.php:694
+#: ../s9-egoi.php:705
+#: ../s9-egoi.php:716
+msgid "Activate, insert the label you want for this field and select if field is required or not."
+msgstr "Active, insira a etiqueta que deseja para este campo e seleccione se o campo é obrigatório ou não."
+
+#: ../s9-egoi.php:567
+msgid "First Name Label"
+msgstr "Etiqueta para o Nome"
+
+#: ../s9-egoi.php:578
+msgid "Last Name Label"
+msgstr "Etiqueta para o Apelido"
+
+#: ../s9-egoi.php:589
+msgid "Cellphone Label"
+msgstr "Etiqueta para o Telemóvel"
+
+#: ../s9-egoi.php:600
+msgid "Telephone Label"
+msgstr "Etiqueta para o Telefone"
+
+#: ../s9-egoi.php:611
+msgid "Fax Label"
+msgstr "Etiqueta para o Fax"
+
+#: ../s9-egoi.php:622
+msgid "Address Label"
+msgstr "Etiqueta para a Morada"
+
+#: ../s9-egoi.php:633
+msgid "Zip Code Label"
+msgstr "Etiqueta para o Cod Postal"
+
+#: ../s9-egoi.php:644
+msgid "City Label"
+msgstr "Etiqueta para a Cidade"
+
+#: ../s9-egoi.php:655
+msgid "District Label"
+msgstr "Etiqueta para o Distrito"
+
+#: ../s9-egoi.php:666
+msgid "State Label"
+msgstr "Etiqueta para o Estado"
+
+#: ../s9-egoi.php:677
+msgid "Age Label"
+msgstr "Etiqueta para a Idade"
+
+#: ../s9-egoi.php:688
+msgid "Birth Date Label"
+msgstr "Etiqueta para a Data de Nascimento"
+
+#: ../s9-egoi.php:699
+msgid "Gender Label"
+msgstr "Etiqueta para o Género"
+
+#: ../s9-egoi.php:710
+msgid "Company Label"
+msgstr "Etiqueta para a Empresa"
+
+#: ../s9-egoi.php:727
+msgid "Email Header Image"
+msgstr "Imagem para o Cabeçalho do Email"
+
+#: ../s9-egoi.php:730
+msgid "Image URL"
+msgstr "URL da imagem"
+
+#: ../s9-egoi.php:734
+msgid "Image url to use in the header of email campaings. Must be: 580px by 200px. If empty, default image will be used."
+msgstr "Endereço web para a imagem a usar no cabeçalho das campannhas de email. Tem que ter: 580px por 200px. Se estiver vazio será usada uma imagem em branco."
+
+#: ../s9-egoi.php:737
+msgid "Header Links"
+msgstr "Links do cabeçalho"
+
+#: ../s9-egoi.php:740
+#: ../s9-egoi.php:773
+msgid "Referer"
+msgstr "Afiliado"
+
+#: ../s9-egoi.php:742
+#: ../s9-egoi.php:775
+msgid "View"
+msgstr "Ver"
+
+#: ../s9-egoi.php:746
+msgid "Show Referer link on email header."
+msgstr "Mostar o link de Recomendação no cabeçalho do email."
+
+#: ../s9-egoi.php:747
+msgid "Show View link on email header."
+msgstr "Mostrar o link Ver no cabeçalho do email."
+
+#: ../s9-egoi.php:750
+#: ../s9-egoi.php:783
+msgid "Remove"
+msgstr "Remover"
+
+#: ../s9-egoi.php:752
+#: ../s9-egoi.php:785
+msgid "Edit"
+msgstr "Editar"
+
+#: ../s9-egoi.php:756
+msgid "Show Remove link on email header."
+msgstr "Mostar o link Remover no cabeçalho do email."
+
+#: ../s9-egoi.php:757
+msgid "Show Edit link on email header."
+msgstr "Mostar o link Editar no cabeçalho do email."
+
+#: ../s9-egoi.php:760
+#: ../s9-egoi.php:793
+msgid "Print"
+msgstr "Imprimir"
+
+#: ../s9-egoi.php:762
+#: ../s9-egoi.php:795
+msgid "Social Networks"
+msgstr "Redes Sociais"
+
+#: ../s9-egoi.php:766
+msgid "Show Print link on email header."
+msgstr "Mostar o link Imprimir no cabeçalho do email."
+
+#: ../s9-egoi.php:767
+msgid "Show Social Networks link on email header."
+msgstr "Mostar o link das Redes Sociais no cabeçalho do email."
+
+#: ../s9-egoi.php:770
+msgid "Footer Links"
+msgstr "Links do rodapé"
+
+#: ../s9-egoi.php:779
+msgid "Show Referer link on email footer."
+msgstr "Mostar o link de Recomendação no rodapé do email."
+
+#: ../s9-egoi.php:780
+msgid "Show View link on email footer."
+msgstr "Mostar o link de Ver no rodapé do email."
+
+#: ../s9-egoi.php:789
+msgid "Show Remove link on email footer."
+msgstr "Mostar o link de Remover no rodapé do email."
+
+#: ../s9-egoi.php:790
+msgid "Show Edit link on email footer."
+msgstr "Mostar o link de Editar no rodapé do email."
+
+#: ../s9-egoi.php:799
+msgid "Show Print link on email footer."
+msgstr "Mostar o link de Imprimir no rodapé do email."
+
+#: ../s9-egoi.php:800
+msgid "Show Social Networks link on email footer."
+msgstr "Mostar o link das Redes Sociais no rodapé do email."
+
+#: ../s9-egoi.php:810
+msgid "Erase Campaigns"
+msgstr "Apagar Campanhas"
+
+#: ../s9-egoi.php:811
+msgid "Delete all saved campaigns from the database."
+msgstr "Apagar todas as campanhas de email da base de dados."
+
+#: ../s9-egoi.php:814
+msgid "Erase Options"
+msgstr "Apagar Opções"
+
+#: ../s9-egoi.php:815
+msgid "Delete all saved options. This will reset all options to their default values."
+msgstr "Apagar todas as opções guardadas. Isto vai restaurar as definições iniciais do plugin."
+
+#: ../s9-egoi.widget.php:111
+msgid "Select"
+msgstr "Seleccione"
+
+#: ../s9-egoi.widget.php:112
+msgid "Female"
+msgstr "Feminino"
+
+#: ../s9-egoi.widget.php:113
+msgid "Male"
+msgstr "Masculino"
+
+#: ../s9-egoi.widget.php:128
+msgid "Subscribe"
+msgstr "Subscrever"
+
+#: ../s9-egoi.widget.php:132
+msgid "Required Fields"
+msgstr "Campos obrigatórios"
+
+#: ../s9-egoi.widget.php:150
+msgid "Widget Title"
+msgstr "Título do Widget"
+
+#: ../s9-egoi.widget.php:151
+msgid "Widget Description"
+msgstr "Descrição do Widget"
+
